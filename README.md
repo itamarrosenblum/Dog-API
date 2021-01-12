@@ -9,7 +9,8 @@
 
 ## Description 📝
 Trying out the Dog API.
-- Original dataset taken from the the Stanford Dogs Dataset.
+- The internet's biggest collection of open source dog pictures.
+- Original dataset is taken from the the Stanford Dogs Dataset.
 
 For the full API documentation, <strong><a href="https://dog.ceo/dog-api/about">Click Here</a></strong>.
 
